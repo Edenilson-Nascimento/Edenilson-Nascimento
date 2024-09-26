@@ -34,11 +34,11 @@ Sou da Bahia mas atualmente estou morando em Taguatinga-DF. Sou Dev Front-End Jr
  
  </br>
 <div display="inline-block">
- <p align="left">🤿 Sou massoterapeutae estou em transição de carreira.</p>
+ <p align="left">🤿 Sou massoterapeuta e estou em transição de carreira.</p>
  <p align="left">💻 Sou Estudante de Desenvolvimento de Sistemas pelo Senac;</p>
- <p align="left">📚 Realizei o bootcamp de Pessoa desenvolvedora Jr pela Generation Brasil e a Formação de Frond-End da ONE (Oracon next education & Alura) ;</p>
- <p align="left">🏆 Sou Adventista e sou Integrande do Clube de Desbravadores</p>
- <p align="left">♥️ Sou interprete e instrutor voluntario de Libras do MAS (Ministério Adventista dos Surdos) da Fadba (Faculdade Adventista da Bahia)</p>
+ <p align="left">📚 Realizei o bootcamp de Pessoa desenvolvedora Jr pela Generation Brasil e a Formação de Frond-End da ONE (Oracle next education & Alura) ;</p>
+ <p align="left">🏆 Sou Adventista e sou Integrante do Clube de Desbravadores</p>
+ <p align="left">♥️ Sou interprete e instrutor voluntário de Libras do MAS (Ministério Adventista dos Surdos) da Fadba (Faculdade Adventista da Bahia)</p>
  <p align="left">☕🎮 Adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 </div>
 
