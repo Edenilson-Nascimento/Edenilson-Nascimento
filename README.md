@@ -59,7 +59,7 @@ Sou da Bahia mas atualmente estou morando em Taguatinga-DF. Sou Dev Front-End Jr
   <a href="https://www.instagram.com/danonenascimento/">
     <img align="left" width="80px" src="https://i.ibb.co/zhjksgB/logotipo-do-instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="linkedin.com/in/edenilson-nascimento-dev/">
+  <a href="https://www.linkedin.com/in/edenilson-nascimento-dev">
     <img width="80px" src="https://i.ibb.co/J7h1b3M/linkedin.png"  alt="linkedin" style="vertical-align:top;">
   </a>
   </div>
