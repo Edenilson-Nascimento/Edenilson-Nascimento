@@ -6,7 +6,7 @@
 
 ## Olá Dev. Bem-Vindo ao meu GitHub!!
 
-Sou da Bahia mas atualmente estou morando em Taguatinga-DF. Sou Dev Front-End Jr e sou apaixonado por programação e Realidade virtual! Sou Desbravador no universo da programação e na vida real, Adoro aprender coisas novas e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! E então, vamos compartilhar novas ideias!?
+Desenvolvedor em formação com foco em soluções tecnológicas voltadas à área da saúde (HealthTech). Experiência em projetos com JavaScript, Python e inteligência artificial, além de vivência com terapias integrativas. Busco criar aplicações que conectem tecnologia e cuidado humano, melhorando a experiência e acessibilidade no atendimento ao paciente.
 
 ##
 
