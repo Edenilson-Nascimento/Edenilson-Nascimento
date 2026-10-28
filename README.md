@@ -16,7 +16,7 @@ Responde perguntas sobre currículo e vagas usando busca semântica nos document
 - **Deploy:** Render (back-end e front-end) + Neon (Postgres)
 - 🔗 [Demo](https://carreirarag-frontend.onrender.com) *(no plano gratuito, a primeira abertura pode demorar alguns segundos)*
 
-### [Assistente Inteligente com IA Generativa](LINK_DO_REPOSITORIO)
+### [Assistente Inteligente com IA Generativa](https://github.com/Edenilson-Nascimento/Assistente-Massoterapia.git)
 Assistente que usa a API do Llama (Meta) com engenharia de prompts para estruturar protocolos técnicos e exportá-los em PDF.
 - **Stack:** Python, Streamlit, Meta Llama
 
