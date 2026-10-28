@@ -1,73 +1,60 @@
-<div dsplay="inline-block">
- <h1 align="center">Edenilson Nascimento</h1>
-</div>
-</br>
-</br>
+# Olá, eu sou o Edenilson 👋
 
-## Olá Dev. Bem-Vindo ao meu GitHub!!
+**Estudante de IA e Machine Learning (UNIASSELVI, 2027) | Python · LLMs · RAG · FastAPI**
+Brasília, DF · Em busca de estágio em IA Generativa
 
-Desenvolvedor em formação com foco em soluções tecnológicas voltadas à área da saúde (HealthTech). Experiência em projetos com JavaScript, Python e inteligência artificial, além de vivência com terapias integrativas. Busco criar aplicações que conectem tecnologia e cuidado humano, melhorando a experiência e acessibilidade no atendimento ao paciente.
+Construo soluções de IA aplicadas a problemas reais: APIs de LLMs, busca vetorial, automação de processos e interfaces simples de usar. Também sou intérprete de Libras e co-fundador do **Comunique+**, projeto de inclusão para a comunidade surda. Por isso me interesso por IA que seja acessível a mais pessoas.
 
-##
+---
 
-### 🖥️ Tecnologias e Ferramentas que estou apendendo: 
+## 🚀 Projetos em destaque
 
-<img width="400px" align="right" src="https://i.ibb.co/p0t7QYZ/octocat-1727372792620.png">
-<code><img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title = "Spring"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" title = "Insomnia"/></code>
+### [CarreiraRAG](https://github.com/Edenilson-Nascimento/CarreiraRAG) — assistente de carreira com RAG
+Responde perguntas sobre currículo e vagas usando busca semântica nos documentos cadastrados.
+- **Stack:** Python, FastAPI, PostgreSQL + pgvector (índice HNSW), Streamlit, Google Gemini (chat e embeddings), Docker
+- **Destaques:** ingestão com chunking e embeddings, filtro de relevância por distância, fallback entre modelos, histórico paginado em SQL puro
+- **Deploy:** Render (back-end e front-end) + Neon (Postgres)
+- 🔗 [Demo](https://carreirarag-frontend.onrender.com) *(no plano gratuito, a primeira abertura pode demorar alguns segundos)*
 
-</br>
-</br>
+### [Assistente Inteligente com IA Generativa](LINK_DO_REPOSITORIO)
+Assistente que usa a API do Llama (Meta) com engenharia de prompts para estruturar protocolos técnicos e exportá-los em PDF.
+- **Stack:** Python, Streamlit, Meta Llama
 
-##
+### [Chatbot Especialista de Triagem Clínica](LINK_DO_REPOSITORIO)
+Sistema especialista com forward chaining, fatores de confiança (inspirados no MYCIN), lógica fuzzy e busca heurística (A*).
+- **Stack:** Python
 
- #### Algumas Curiosidades Sobre Mim: 
- 
- </br>
-<div display="inline-block">
- <p align="left">🤿 Sou massoterapeuta e estou em transição de carreira.</p>
- <p align="left">💻 Sou Estudante de Desenvolvimento de Sistemas pelo Senac;</p>
- <p align="left">📚 Realizei o bootcamp de Pessoa desenvolvedora Jr pela Generation Brasil e a Formação de Frond-End da ONE (Oracle next education & Alura) ;</p>
- <p align="left">🏆 Sou Adventista e sou Integrante do Clube de Desbravadores</p>
- <p align="left">♥️ Sou interprete e instrutor voluntário de Libras do MAS (Ministério Adventista dos Surdos) da Fadba (Faculdade Adventista da Bahia)</p>
- <p align="left">☕🎮 Adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
-</div>
+### [Automação de Processos com Python (RPA)](LINK_DO_REPOSITORIO)
+Script que extrai e valida tabelas com Pandas e preenche cadastros automaticamente, reduzindo cerca de 80% do esforço manual.
+- **Stack:** Python, Pandas, PyAutoGUI
 
+---
 
+## 🛠️ Tecnologias
 
-</br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/danonenascimento/) eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+- **IA e LLMs:** RAG, embeddings, busca vetorial (pgvector), Gemini, Meta Llama, engenharia de prompts, LangChain
+- **Back-end e dados:** FastAPI, REST, SQL (PostgreSQL, MySQL)
+- **Também uso:** JavaScript, TypeScript, Java, React
 
-</br>
+---
 
-##
+## 📈 Em andamento
 
-<div dsplay="inline-block">
-  <h3 align="center">Minhas Redes Sociais</h3>
-</br>
-</br>
-  <a href="https://www.instagram.com/danonenascimento/">
-    <img align="left" width="80px" src="https://i.ibb.co/zhjksgB/logotipo-do-instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://www.linkedin.com/in/edenilson-nascimento-dev">
-    <img width="80px" src="https://i.ibb.co/J7h1b3M/linkedin.png"  alt="linkedin" style="vertical-align:top;">
-  </a>
-  </div>
+- Experimentos de ML clássico em Python (classificação com Random Forest, Árvore de Decisão e KNN)
+- Evolução do CarreiraRAG para um projeto de IA com foco em acessibilidade
 
-##
-<p align="center">
-<a href="https://github.com/Edenilson-Nascimento">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edenilson-Nascimento&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edenilson-Nascimento&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+---
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/edenilson-nascimento-dev](https://www.linkedin.com/in/edenilson-nascimento-dev)
+- E-mail: edenilson.dy@gmail.com
